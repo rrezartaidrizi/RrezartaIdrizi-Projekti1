@@ -1,0 +1,27 @@
+body
+{background-color:#DCDCDC; color:#415161;}
+	
+li {font-size:20px;}
+
+dd {font-size:20px;}
+
+button{  background-color: #415161;
+  border: yes;
+  color: white;
+  padding: 15px 32px;
+  font-size: 16px;
+  text-align: center;
+  margin-left:82%;}
+  
+a:link 
+{color:black;}
+a:visited 
+{color:white;}
+a
+{
+border:yes;
+background-color: #415161;
+  padding: 15px 15px;
+  font-size: 15px;
+  text-align: center;
+}
